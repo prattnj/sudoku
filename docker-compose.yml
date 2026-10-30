@@ -1,0 +1,8 @@
+services:
+  sudoku:
+    build: .
+    image: sudoku:latest
+    container_name: sudoku
+    restart: unless-stopped
+    ports:
+      - "${PORT_SUDOKU:?Set PORT_SUDOKU to the host port}:3000"

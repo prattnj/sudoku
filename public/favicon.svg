@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect width="512" height="512" rx="96" fill="#0284c7"/>
+  <rect x="88" y="88" width="336" height="336" rx="20" fill="#fff"/>
+  <g stroke="#0c4a6e" stroke-width="6">
+    <path d="M200 88v336M312 88v336M88 200h336M88 312h336"/>
+  </g>
+  <g font-family="Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-weight="700" font-size="84" text-anchor="middle" fill="#0c4a6e">
+    <text x="144" y="174">5</text>
+    <text x="368" y="174">3</text>
+    <text x="256" y="286" fill="#0284c7">7</text>
+    <text x="144" y="398">9</text>
+    <text x="368" y="398">1</text>
+  </g>
+</svg>
